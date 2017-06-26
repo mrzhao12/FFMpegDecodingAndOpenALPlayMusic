@@ -1,0 +1,2 @@
+# FFMpegDecodingAndOpenALPlayMusic
+使用FFMPEG解码和OpenAL播放音乐
